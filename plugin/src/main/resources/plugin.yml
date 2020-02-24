@@ -1,0 +1,17 @@
+name: Mcefp
+version: 1.0.0
+main: work.craftpowered.mcefp.Mcefp
+loadbefore: [McREST]
+softdepend: [McREST]
+authors: [jawaw]
+
+commands:
+  mcefp:
+    description: Main command for mcefp.
+    aliases: [mp]
+
+permissions:
+  mcefp.admin.bypass:
+    description: Bypass command costs.
+    default: false
+

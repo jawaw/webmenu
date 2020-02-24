@@ -1,0 +1,4 @@
+BASE_URL: "http://laimc.net:26665/"
+URL_LOGIN: "login.html"
+URL_REGISTER: "register.html"
+URL_MENU: "menu.html"
